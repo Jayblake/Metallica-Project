@@ -48,21 +48,53 @@ Mobile First Responsive on all device Sizes.
 
 Technologies used.
 
+Languages.
+
 • HTML5
 
 • CSS3
 
-• Bootstrap
+• JavaScript
 
-• GitPod
+Frameworks, Libraries and Programs Used.
 
-• GitHub
+1. Bootstrap
 
-• Google Chrome Developer Tools
+Bootstrap was used for the Layout, Styling and Responsiveness of the Website. 
 
-• JavaScript & jQuery
+2. Git
 
-• Google Fonts
+Git was used for version control by utilizing the GitPod terminal to Git add, commit and push to GitHub.
+
+3. GitHub
+
+GitHub was used to store the projects code once it had been pushed from GitPod.
+
+4. Google Chrome Developer Tools
+
+Google Chrome Developer Tools was used to test for responsiveness across diferent device widths. 
+
+5. jQuery
+
+jQuery was used to remove a paragraph from the Homepage on a Mobile Device and is also part of Bootstrap used for responsiveness. 
+
+6. Google Fonts
+
+Google Fonts was used to apply different fonts to the project.
+
+7. Hover.css
+
+Hover.css was used on the Social Media Links within the footer to add a highlight around the links when hovered over.
+
+Hover.css was also used on the Navbar to add Sweep to bottom effect when hovered over.
+
+8. Microsoft Word
+
+Microsoft Word was used to create the Wireframes as part of the design process.
+
+9. Paint.net
+
+Paint.net was used to edit and reduce file size of the Images.
 
 Deployment.
 
@@ -74,7 +106,7 @@ Modal Hire us and Join our fan club were tested locally and remotely.
 
 Work based on other code?
 
-Only the Modal Hire us and sign up form and audio player template was used from W3Schools and
+Only the Modal Hire us and sign up form and audio player templates were used from W3Schools and
 Bootstrap. I modified its content and changed some of the code to semantically what
 it was being used for. I also changed the styling using CSS and their action to point to
 a thankyou page to confirm their action and increase the users experience.
