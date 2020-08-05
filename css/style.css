@@ -227,7 +227,6 @@ ul.inline-list.social-links {
 /* album page container */
 .img-fluid {
     max-width: 100%;
-    height: auto;
     padding: 0;
 }
 /* album & gallery page images */
