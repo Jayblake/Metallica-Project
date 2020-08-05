@@ -21,29 +21,34 @@ thankyou page does work on my local desktop and on Github.
 # Design
 
 • Cloour Scheme
+
 Colour scheme used throughout this project was white, Light Blue and Black.
 
 • Typorgraphy
+
 The fonts used on this Website are EXO and Roboto with San-Serif as a 
 fall back incase the fonts can not be imported for any reason.
 
 • Imagery
+
 The image used on the Home Page is where the colour scheme was based from throughout 
 the Website. I also used Metallica's Logo image through out the site. 
 Featured on the Website is a gallery page with 6 images and an albums page which contains their album covers.
 
 • Wireframes
+
 Homepage Mobile Device Wireframe.
 Homepage Table & Desktop Wireframe.
 Album Page Mobile Device Wireframe.
 Album Page Tablet & Desktop.
 
 • Features
+
 Mobile First Responsive on all device Sizes.
 
 # Technologies used.
 
-Languages.
+# Languages.
 
 • HTML5
 
