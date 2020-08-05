@@ -7,7 +7,9 @@ Website for the legendary band Metallica. It fulfils the need for fans and poten
 fans to listen to Metallica’s music, watch Metallica’s music videos, join a fan club
 enquire to hire the band through a contact form, view their album covers and gain
 further information on the albums as well as view pictures of the band and concerts.
+
 Functionality of the project.
+
 The Website is fully responsive, on desktop and larger screen sizes, there is a small
 amount of additional content in the form of an extra paragraph on the Home Page.
 The navigation is functional and two forms (Join our fan club and hire us) are input
@@ -19,35 +21,48 @@ thankyou page does work on my local desktop and on Github.
 Design
 
 • Cloour Scheme
+
 Colour scheme used throughout this project was white, Light Blue and Black.
 
 • Typorgraphy
+
 The fonts used on this Website are EXO and Roboto with San-Serif as a 
 fall back incase the fonts can not be imported for any reason.
 
 • Imagery
+
 The image used on the Home Page is where the colour scheme was based from throughout 
 the Website. I also used Metallica's Logo image through out the site. 
 Featured on the Website is a gallery page with 6 images and an albums page which contains their album covers.
 
 • Wireframes
+
 Homepage Mobile Device Wireframe.
 Homepage Table & Desktop Wireframe.
 Album Page Mobile Device Wireframe.
 Album Page Tablet & Desktop.
 
 • Features
+
 Mobile First Responsive on all device Sizes.
 
 Technologies used.
 
 • HTML5
+
 • CSS3
+
 • Bootstrap
+
 • GitPod
+
 • GitHub
+
 • Google Chrome Developer Tools
+
 • JavaScript & jQuery
+
+• Google Fonts
 
 Deployment.
 
