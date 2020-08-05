@@ -5,15 +5,6 @@
     }
 }
 
-/*----------default container padding-margins */
-.alt-grid [class*="col"] {padding:0; }
-.alt-grid .row {margin:0; }
-.alt-grid .container {width: 100%; padding: 0; }
-.remove-all-margin-padding {
-    margin: 0 ! important;
-    padding: 0 ! important;
-}
-
 /*-------------------------background colors */
 .ui-menu-color-home {
     background-color: rgb(25, 26, 26);
@@ -240,7 +231,7 @@ ul.inline-list.social-links {
     max-height: 500px;
     width: 100%;
     height: auto;
-    text-align: center;
+    
 }
 
 .audio-container {
