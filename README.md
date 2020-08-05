@@ -85,7 +85,6 @@ Google Fonts was used to apply different fonts to the project.
 7. Hover.css
 
 Hover.css was used on the Social Media Links within the footer to add a highlight around the links when hovered over.
-
 Hover.css was also used on the Navbar to add Sweep to bottom effect when hovered over.
 
 8. Microsoft Word
