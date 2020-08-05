@@ -152,10 +152,13 @@ section p {
 /*---------------------------------------------------footer */
 /* footer size */
 footer {
-    height: 100px;
+    position: absolute;
+    height: 100%;
+    max-height: 100px;
     min-height: 100px;
     width: 100%;
     padding-bottom: 0;
+    padding-top: 5px;
 }
 /* footer text & styling */
 h6 {
@@ -182,13 +185,7 @@ h6 {
 footer div {
     text-align: center;
 }
-footer {
-    height: 100px;
-    padding-bottom: 0;
-    padding-top: 5px;
-    min-height: 100px;
-    width: 100%;
-}
+
 /* footer social links */
 .social-links {
     padding-bottom: 0;
@@ -230,7 +227,7 @@ ul.inline-list.social-links {
 /* album page container */
 .img-fluid {
     max-width: 100%;
-    height: auto;
+    height: 100%;
     padding: 0;
 }
 /* album & gallery page images */
@@ -242,7 +239,7 @@ ul.inline-list.social-links {
     padding: 15px;
     max-width: 500px;
     max-height: 500px;
-    width: auto;
+    width: 100%;
     height: auto;
     text-align: center;
 }
