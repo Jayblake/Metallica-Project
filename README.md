@@ -21,32 +21,27 @@ thankyou page does work on my local desktop and on Github.
 # Design
 
 • Cloour Scheme
-
 Colour scheme used throughout this project was white, Light Blue and Black.
 
 • Typorgraphy
-
 The fonts used on this Website are EXO and Roboto with San-Serif as a 
 fall back incase the fonts can not be imported for any reason.
 
 • Imagery
-
 The image used on the Home Page is where the colour scheme was based from throughout 
 the Website. I also used Metallica's Logo image through out the site. 
 Featured on the Website is a gallery page with 6 images and an albums page which contains their album covers.
 
 • Wireframes
-
 Homepage Mobile Device Wireframe.
 Homepage Table & Desktop Wireframe.
 Album Page Mobile Device Wireframe.
 Album Page Tablet & Desktop.
 
 • Features
-
 Mobile First Responsive on all device Sizes.
 
-Technologies used.
+# Technologies used.
 
 Languages.
 
@@ -58,41 +53,32 @@ Languages.
 
 # Frameworks, Libraries and Programs Used.
 
-1. Bootstrap
-
+1. Bootstrap.
 Bootstrap was used for the Layout, Styling and Responsiveness of the Website. 
 
-2. Git
-
+2. GitPod.
 Git was used for version control by utilizing the GitPod terminal to Git add, commit and push to GitHub.
 
-3. GitHub
-
+3. GitHub.
 GitHub was used to store the projects code once it had been pushed from GitPod.
 
-4. Google Chrome Developer Tools
-
+4. Google Chrome Developer Tools.
 Google Chrome Developer Tools was used to test for responsiveness across diferent device widths. 
 
-5. jQuery
-
+5. jQuery.
 jQuery was used to remove a paragraph from the Homepage on a Mobile Device and is also part of Bootstrap used for responsiveness. 
 
-6. Google Fonts
-
+6. Google Fonts.
 Google Fonts was used to apply different fonts to the project.
 
-7. Hover.css
-
+7. Hover.css.
 Hover.css was used on the Social Media Links within the footer to add a highlight around the links when hovered over.
 Hover.css was also used on the Navbar to add Sweep to bottom effect when hovered over.
 
-8. Microsoft Word
-
+8. Microsoft Word.
 Microsoft Word was used to create the Wireframes as part of the design process.
 
-9. Paint.net
-
+9. Paint.net.
 Paint.net was used to edit and reduce file size of the Images.
 
 # Deployment.
