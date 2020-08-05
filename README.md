@@ -1,6 +1,6 @@
 # Metallica Responsive Website Project!
 
-# What does the website do and what need does it fulfil?
+## What does the website do and what need does it fulfil?
 
 This project uses skills that have been learnt to build a mobile-first responsive
 Website for the legendary band Metallica. It fulfils the need for fans and potential
@@ -8,7 +8,7 @@ fans to listen to Metallica’s music, watch Metallica’s music videos, join a 
 enquire to hire the band through a contact form, view their album covers and gain
 further information on the albums as well as view pictures of the band and concerts.
 
-# Functionality of the project.
+## Functionality of the project.
 
 The Website is fully responsive, on desktop and larger screen sizes, there is a small
 amount of additional content in the form of an extra paragraph on the Home Page.
@@ -18,45 +18,45 @@ functional in that they do not alert anyone from the team that a form has been f
 also they do not fill a database. Currently the Join our fan club and the Hire us
 thankyou page does work on my local desktop and on Github.
 
-# Design
+## Design
 
-• Cloour Scheme
+### • Cloour Scheme
 
 Colour scheme used throughout this project was white, Light Blue and Black.
 
-• Typorgraphy
+### • Typorgraphy
 
 The fonts used on this Website are EXO and Roboto with San-Serif as a 
 fall back incase the fonts can not be imported for any reason.
 
-• Imagery
+### • Imagery
 
 The image used on the Home Page is where the colour scheme was based from throughout 
 the Website. I also used Metallica's Logo image through out the site. 
 Featured on the Website is a gallery page with 6 images and an albums page which contains their album covers.
 
-• Wireframes
+### • Wireframes
 
 Homepage Mobile Device Wireframe.
 Homepage Table & Desktop Wireframe.
 Album Page Mobile Device Wireframe.
 Album Page Tablet & Desktop.
 
-• Features
+### • Features
 
 Mobile First Responsive on all device Sizes.
 
-# Technologies used.
+## Technologies used.
 
-# Languages.
+## Languages.
 
-• HTML5
+### • HTML5
 
-• CSS3
+### • CSS3
 
-• JavaScript
+### • JavaScript
 
-# Frameworks, Libraries and Programs Used.
+## Frameworks, Libraries and Programs Used.
 
 1. Bootstrap.
 Bootstrap was used for the Layout, Styling and Responsiveness of the Website. 
@@ -86,7 +86,7 @@ Microsoft Word was used to create the Wireframes as part of the design process.
 9. Paint.net.
 Paint.net was used to edit and reduce file size of the Images.
 
-# Deployment.
+## Deployment.
 
 Each page was tested locally on GitPod using Chrome Developer Tools, testing it’s
 functionality as well as it’s look and feel in landscape and portrait mode on a range of
@@ -94,14 +94,14 @@ different devices such as Nexus 5S, Nexus 6P, Galaxy S5, iPhone 7, iPhone 8, iPa
 and responsive desktop. All links were tested along with music track audio player. The
 Modal Hire us and Join our fan club were tested locally and remotely.
 
-# Work based on other code?
+## Work based on other code?
 
 Only the Modal Hire us and sign up form and audio player templates were used from W3Schools and
 Bootstrap. I modified its content and changed some of the code to semantically what
 it was being used for. I also changed the styling using CSS and their action to point to
 a thankyou page to confirm their action and increase the users experience.
 
-# What changed after user design experience (UDX) Phase?
+## What changed after user design experience (UDX) Phase?
 
 I had to reduce the number of tracks that I originally planned on using for the audio
 player, and i had to reduce the number of images in the gallery due to the file sizes, also I have included an extra thankyou page which the
