@@ -10,7 +10,7 @@ further information on the albums as well as view pictures of the band and conce
 
 ## Functionality of the project.
 
-The Website is fully responsive, on desktop and larger screen sizes, there is a small
+The Website is fully responsive, on mobile devices, tablets, desktop and larger screen sizes, there is a small
 amount of additional content in the form of an extra paragraph on the Home Page.
 The navigation is functional and two forms (Join our fan club and hire us) are input
 validated which then resolves to a thankyou page. These forms are not fully
@@ -22,7 +22,7 @@ thankyou page does work on my local desktop and on Github.
 
 ### • Cloour Scheme
 
-Colour scheme used throughout this project was white, Light Blue and Black.
+Colour scheme used throughout this project was white, Light Blue and Black, i have also included Grey for the submit buttons.
 
 ### • Typorgraphy
 
@@ -33,7 +33,7 @@ fall back incase the fonts can not be imported for any reason.
 
 The image used on the Home Page is where the colour scheme was based from throughout 
 the Website. I also used Metallica's Logo image through out the site. 
-Featured on the Website is a gallery page with 6 images and an albums page which contains their album covers.
+Featured on the Website is a gallery page with 12 images and an albums page which contains their album covers.
 
 ### • Wireframes
 

@@ -5,6 +5,15 @@
     }
 }
 
+/*----------default container padding-margins */
+.alt-grid [class*="col"] {padding:0; }
+.alt-grid .row {margin:0; }
+.alt-grid .container {width: 100%; padding: 0; }
+.remove-all-margin-padding {
+    margin: 0 ! important;
+    padding: 0 ! important;
+}
+
 /*-------------------------background colors */
 .ui-menu-color-home {
     background-color: rgb(25, 26, 26);
@@ -21,12 +30,6 @@
 .ui-menu-color-gallery {
     background-color:rgb(25, 26, 26);
 }
-.ui-menu-color-merchandise {
-    background-color:rgb(25, 26, 26);
-}
-.ui-menu-color-booking {
-    background-color: #fff;
-}
 .introduction {
     background-color: rgb(25, 26, 26);
 }
@@ -41,6 +44,7 @@ footer {
 header {
     margin: 0;
 }
+
 h4 {
     text-align: center;
 }
@@ -77,7 +81,7 @@ h2 {
 .menuitem {
     padding: 0;
     text-align: center;
-    height: 60px;
+    height: 70px;
 }
 .menuitem a {
     width: 100%;
@@ -86,7 +90,7 @@ h2 {
     color: floralwhite;
 }
 .menuitem a i {
-    padding-top: 13px;
+    padding-top: 19px;
     display: block;
     font-size: 16px;
     color: floralwhite;
@@ -113,6 +117,7 @@ div ul {
     display: block;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 15px;
 }
 /*--------------------------------------------------section image */
 #homepage-img {
@@ -136,20 +141,18 @@ section p {
 }
 .introduction {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     font-family: 'Roboto' , sans-serif;
+    font-size: 20px;
     color: rgb(10, 162, 233);
 }
 /*---------------------------------------------------footer */
 /* footer size */
 footer {
-    position: absolute;
-    height: 100%;
-    max-height: 100px;
-    min-height: 100px;
+    height: 80px;
+    min-height: 80px;
     width: 100%;
     padding-bottom: 0;
-    padding-top: 5px;
 }
 /* footer text & styling */
 h6 {
@@ -170,13 +173,19 @@ h6 {
     font-weight: 400;
     color: floralwhite;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 2px;
     margin: 0;
 }
 footer div {
     text-align: center;
 }
-
+footer {
+    height: 85px;
+    padding-bottom: 0;
+    padding-top: 6px;
+    width: 100%;
+    bottom: 0;
+}
 /* footer social links */
 .social-links {
     padding-bottom: 0;
@@ -191,7 +200,7 @@ ul.inline-list.social-links {
     padding: 12px 0;
     border-radius: 50%;
     font-size: 14px;
-    line-height: 10px;
+    line-height: 12px;
     text-align: center;
     color: #fafafa;
     transition: all .35s ease-in-out;
@@ -210,7 +219,7 @@ ul.inline-list.social-links {
 /* nav bar hover*/
 .hvr-sweep-to-bottom:before {
     background: rgb(10, 162, 233);
-    height: 60px;
+    height: 70px;
 }
 /*---------------------------------------------------albums.html */
 
@@ -218,6 +227,7 @@ ul.inline-list.social-links {
 /* album page container */
 .img-fluid {
     max-width: 100%;
+    height: auto;
     padding: 0;
 }
 /* album & gallery page images */
@@ -229,13 +239,14 @@ ul.inline-list.social-links {
     padding: 15px;
     max-width: 500px;
     max-height: 500px;
-    width: 100%;
+    width: auto;
     height: auto;
-    
+    text-align: center;
 }
 
 .audio-container {
-    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 60px;
     text-align: center;
 }
 /*-------------------------------------------------------Contact and booking form*/
@@ -287,6 +298,10 @@ input[type=password] {
     margin-bottom: 20px;
 }
 
+input[type=checkbox] {
+    margin-top: 80px;
+}
+
 #name {
     margin-bottom: 5px;
     font-family: "Roboto" , sans-serif;
@@ -331,8 +346,8 @@ input[type=password] {
 
 #check-box {
     display: inline;
-
 }
+
 ::placeholder {
     color: black;
     font-family: "Roboto" , sans-serif;
@@ -347,13 +362,15 @@ hr {
 input[type=Submit] {
     background-color: rgb(122, 121, 118);
     color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
+    padding: 14px 0px;
+    margin-bottom: 100px;
+    margin-top: 60px;
     border: none;
     cursor: pointer;
     width: 25%;
     opacity: 0.9;
     font-family: "Roboto" , sans-serif;
+
 }
 
 button:hover {
